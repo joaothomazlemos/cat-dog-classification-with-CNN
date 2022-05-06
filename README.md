@@ -1,7 +1,7 @@
 # cat and dog classification with Convolutional Neural Network
 Master's assigment done in 2021
 
-# OBJETIVO
+# Objetivo
 Treinar uma rede neural convolucional para predição de imagens classificadas em cachorro ou gato.
 
 O dataset utilizado tem 25000 imagens com label, de onde foi utilizado 4000, sendo 80% para treino, 20% para validação.
