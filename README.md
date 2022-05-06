@@ -1,4 +1,4 @@
-# cat-dog-classification-with-CNN
+# cat and dog classification with Convolutional Neural Network
 Master's assigment done in 2021
 
 # OBJETIVO
